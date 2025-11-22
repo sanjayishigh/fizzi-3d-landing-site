@@ -1,7 +1,7 @@
 import { SVGProps } from "react";
 import clsx from "clsx";
 
-export function fizziLogo(props: SVGProps<SVGSVGElement>) {
+export function FizziLogo(props: SVGProps<SVGSVGElement>) {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
